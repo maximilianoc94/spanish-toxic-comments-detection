@@ -1,0 +1,4 @@
+backend/data/*
+backend/keys.py
+
+lstm/models*
